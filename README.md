@@ -10,4 +10,5 @@ Before transitioning into data science, I worked in media, where I developed str
 Python, pandas, NumPy, scikit-learn, SQL, machine learning, data analysis
 
 ## Projects
-- Bike Sharing Demand Regression: predicted daily rental demand using regression models and model evaluation.
+- Sydney Airbnb Nightly Price Prediction: predicted nightly accommodation prices using feature engineering, regression models, and model evaluation.
+- Sydney Rain Prediction: predicted next-day rainfall using classification models, chronological validation, and model evaluation.
